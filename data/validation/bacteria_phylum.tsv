@@ -1,451 +1,460 @@
 phylum	condition	counts
-Acidobacteria	Colon_CD	8.173425024423276e-4
-Acidobacteria	Colon_Control	0.002937042801401184
-Acidobacteria	Colon_UC	0.0017350879495492658
-Acidobacteria	Ileum_CD	0.07173716342268781
-Acidobacteria	Ileum_Control	0.031536982290545794
-Acidobacteria	Ileum_UC	0.004519798623184583
-Acidobacteria	Stools_CD	8.004084949687844e-4
-Acidobacteria	Stools_Control	6.253689523730398e-4
-Acidobacteria	Stools_UC	8.262145805844234e-4
-Actinobacteria	Colon_CD	1.6331231494297178
-Actinobacteria	Colon_Control	6.936562755750616
-Actinobacteria	Colon_UC	2.197700065968402
-Actinobacteria	Ileum_CD	26.698589627617324
-Actinobacteria	Ileum_Control	3.701984974608833
-Actinobacteria	Ileum_UC	5.431604682072211
-Actinobacteria	Stools_CD	4.0988007849508294
-Actinobacteria	Stools_Control	3.550125548549161
-Actinobacteria	Stools_UC	2.683664859181473
-Aquificae	Colon_CD	4.591794131468284e-4
-Aquificae	Colon_Control	7.47625430828758e-4
-Aquificae	Colon_UC	5.885257732323678e-4
-Aquificae	Ileum_CD	0.017451245574672855
-Aquificae	Ileum_Control	0.0015134228424818306
-Aquificae	Ileum_UC	0.00325870307908656
-Aquificae	Stools_CD	0.001882271991018754
-Aquificae	Stools_Control	0.0015293452597315114
-Aquificae	Stools_UC	0.002524186769191365
-Armatimonadetes	Colon_CD	5.95146978831102e-5
-Armatimonadetes	Colon_Control	1.2785923030753256e-4
-Armatimonadetes	Colon_UC	1.0033153243444207e-4
-Armatimonadetes	Ileum_CD	0.003173450777731335
-Armatimonadetes	Ileum_Control	2.5143590118904656e-4
-Armatimonadetes	Ileum_UC	6.3577403476551e-4
-Armatimonadetes	Stools_CD	1.3939576602242567e-4
-Armatimonadetes	Stools_Control	9.416728595287417e-5
-Armatimonadetes	Stools_UC	1.1875816605471068e-4
-Artverviricota	Colon_CD	0
-Artverviricota	Colon_Control	0
-Artverviricota	Colon_UC	0
-Artverviricota	Ileum_CD	0
-Artverviricota	Ileum_Control	0
-Artverviricota	Ileum_UC	0
-Artverviricota	Stools_CD	0
-Artverviricota	Stools_Control	0
-Artverviricota	Stools_UC	0
-Ascomycota	Colon_CD	0
-Ascomycota	Colon_Control	0
-Ascomycota	Colon_UC	0
-Ascomycota	Ileum_CD	0
-Ascomycota	Ileum_Control	0
-Ascomycota	Ileum_UC	0
-Ascomycota	Stools_CD	0
-Ascomycota	Stools_Control	0
-Ascomycota	Stools_UC	0
-Bacteroidetes	Colon_CD	0.4130842624824197
-Bacteroidetes	Colon_Control	2.925337920544868
-Bacteroidetes	Colon_UC	0.868204087472419
-Bacteroidetes	Ileum_CD	4.474430475283716
-Bacteroidetes	Ileum_Control	1.1442021583330098
-Bacteroidetes	Ileum_UC	17.694899499024686
-Bacteroidetes	Stools_CD	277.9949851077622
-Bacteroidetes	Stools_Control	161.11277274900027
-Bacteroidetes	Stools_UC	188.08090845612853
-Basidiomycota	Colon_CD	0
-Basidiomycota	Colon_Control	0
-Basidiomycota	Colon_UC	0
-Basidiomycota	Ileum_CD	0
-Basidiomycota	Ileum_Control	0
-Basidiomycota	Ileum_UC	0
-Basidiomycota	Stools_CD	0
-Basidiomycota	Stools_Control	0
-Basidiomycota	Stools_UC	0
-Caldiserica	Colon_CD	2.8800910948737347e-5
-Caldiserica	Colon_Control	5.6993782380157576e-5
-Caldiserica	Colon_UC	3.925169323547378e-5
-Caldiserica	Ileum_CD	0.0015479008901938915
-Caldiserica	Ileum_Control	1.2542942387562992e-4
-Caldiserica	Ileum_UC	0.00026369329343684384
-Caldiserica	Stools_CD	2.1556904552301844e-5
-Caldiserica	Stools_Control	6.534336204485346e-6
-Caldiserica	Stools_UC	2.9812230308315952e-5
-Calditrichaeota	Colon_CD	2.894661398188846e-5
-Calditrichaeota	Colon_Control	5.912335708207283e-5
-Calditrichaeota	Colon_UC	4.2410851250937336e-5
-Calditrichaeota	Ileum_CD	0.0015491151368583417
-Calditrichaeota	Ileum_Control	1.2755316290821687e-4
-Calditrichaeota	Ileum_UC	2.757219338491213e-4
-Calditrichaeota	Stools_CD	7.659059453268657e-5
-Calditrichaeota	Stools_Control	3.790148381434396e-5
-Calditrichaeota	Stools_UC	5.609323003211479e-5
-Candidatus Thermoplasmatota	Colon_CD	0
-Candidatus Thermoplasmatota	Colon_Control	0
-Candidatus Thermoplasmatota	Colon_UC	0
-Candidatus Thermoplasmatota	Ileum_CD	0
-Candidatus Thermoplasmatota	Ileum_Control	0
-Candidatus Thermoplasmatota	Ileum_UC	0
-Candidatus Thermoplasmatota	Stools_CD	0
-Candidatus Thermoplasmatota	Stools_Control	0
-Candidatus Thermoplasmatota	Stools_UC	0
-Chlamydiae	Colon_CD	6.583192669726168e-4
-Chlamydiae	Colon_Control	0.0016823614536258273
-Chlamydiae	Colon_UC	9.957963466732944e-4
-Chlamydiae	Ileum_CD	0.02359904565061152
-Chlamydiae	Ileum_Control	0.002066336181135789
-Chlamydiae	Ileum_UC	0.004702989312139676
-Chlamydiae	Stools_CD	0.0010438964515291198
-Chlamydiae	Stools_Control	0.002054229613412069
-Chlamydiae	Stools_UC	0.0010418502217354588
-Chlorobi	Colon_CD	4.662158181316047e-4
-Chlorobi	Colon_Control	0.0010399993635970722
-Chlorobi	Colon_UC	0.0011101173151020834
-Chlorobi	Ileum_CD	0.019396858150087733
-Chlorobi	Ileum_Control	0.0016139505916187317
-Chlorobi	Ileum_UC	0.003976333335848313
-Chlorobi	Stools_CD	0.0028238446923677255
-Chlorobi	Stools_Control	0.001661354398925662
-Chlorobi	Stools_UC	0.0017282241764483243
-Chloroflexi	Colon_CD	4.536652015003912e-4
-Chloroflexi	Colon_Control	9.077896593151165e-4
-Chloroflexi	Colon_UC	8.98433884598926e-4
-Chloroflexi	Ileum_CD	0.022123005554964537
-Chloroflexi	Ileum_Control	0.0017966811750714906
-Chloroflexi	Ileum_UC	0.005222366010881162
-Chloroflexi	Stools_CD	6.477510658895546e-4
-Chloroflexi	Stools_Control	6.601857415407954e-4
-Chloroflexi	Stools_UC	7.003230832334807e-4
-Chrysiogenetes	Colon_CD	2.9173591129208964e-5
-Chrysiogenetes	Colon_Control	6.081347568171464e-5
-Chrysiogenetes	Colon_UC	4.560516547748559e-5
-Chrysiogenetes	Ileum_CD	0.0015556325833917801
-Chrysiogenetes	Ileum_Control	1.2999267141677425e-4
-Chrysiogenetes	Ileum_UC	2.689585785958139e-4
-Chrysiogenetes	Stools_CD	3.69154516792271e-5
-Chrysiogenetes	Stools_Control	2.1886877534416118e-5
-Chrysiogenetes	Stools_UC	5.278368287756254e-5
-Coprothermobacterota	Colon_CD	3.0191523375221816e-5
-Coprothermobacterota	Colon_Control	5.996402705390249e-5
-Coprothermobacterota	Colon_UC	3.925275806139804e-5
-Coprothermobacterota	Ileum_CD	0.0015502299095969303
-Coprothermobacterota	Ileum_Control	1.3303008303207228e-4
-Coprothermobacterota	Ileum_UC	2.791083724284494e-4
-Coprothermobacterota	Stools_CD	3.207693134342509e-5
-Coprothermobacterota	Stools_Control	1.299765460719977e-5
-Coprothermobacterota	Stools_UC	3.484455810985325e-5
-Cossaviricota	Colon_CD	0
-Cossaviricota	Colon_Control	0
-Cossaviricota	Colon_UC	0
-Cossaviricota	Ileum_CD	0
-Cossaviricota	Ileum_Control	0
-Cossaviricota	Ileum_UC	0
-Cossaviricota	Stools_CD	0
-Cossaviricota	Stools_Control	0
-Cossaviricota	Stools_UC	0
-Crenarchaeota	Colon_CD	0
-Crenarchaeota	Colon_Control	0
-Crenarchaeota	Colon_UC	0
-Crenarchaeota	Ileum_CD	0
-Crenarchaeota	Ileum_Control	0
-Crenarchaeota	Ileum_UC	0
-Crenarchaeota	Stools_CD	0
-Crenarchaeota	Stools_Control	0
-Crenarchaeota	Stools_UC	0
-Cressdnaviricota	Colon_CD	0
-Cressdnaviricota	Colon_Control	0
-Cressdnaviricota	Colon_UC	0
-Cressdnaviricota	Ileum_CD	0
-Cressdnaviricota	Ileum_Control	0
-Cressdnaviricota	Ileum_UC	0
-Cressdnaviricota	Stools_CD	0
-Cressdnaviricota	Stools_Control	0
-Cressdnaviricota	Stools_UC	0
-Cyanobacteria	Colon_CD	6.958404855321096e-5
-Cyanobacteria	Colon_Control	1.2901791374266862e-4
-Cyanobacteria	Colon_UC	9.564579418224805e-5
-Cyanobacteria	Ileum_CD	0.003110595624358851
-Cyanobacteria	Ileum_Control	2.56910428715594e-4
-Cyanobacteria	Ileum_UC	0.0010073595173061083
-Cyanobacteria	Stools_CD	7.463852718345629e-5
-Cyanobacteria	Stools_Control	5.933253588113013e-5
-Cyanobacteria	Stools_UC	9.098624748732147e-5
-Deferribacteres	Colon_CD	1.4876247527889974e-4
-Deferribacteres	Colon_Control	3.0643915240549755e-4
-Deferribacteres	Colon_UC	3.337540412801954e-4
-Deferribacteres	Ileum_CD	0.008099704572742282
-Deferribacteres	Ileum_Control	6.558686410339658e-4
-Deferribacteres	Ileum_UC	0.001705596183435716
-Deferribacteres	Stools_CD	0.001847686609707056
-Deferribacteres	Stools_Control	0.003999315450072873
-Deferribacteres	Stools_UC	9.429945853917779e-4
-Deinococcus-Thermus	Colon_CD	0.003991075634704505
-Deinococcus-Thermus	Colon_Control	0.008271588334192502
-Deinococcus-Thermus	Colon_UC	0.006431452523121093
-Deinococcus-Thermus	Ileum_CD	0.06291586674084287
-Deinococcus-Thermus	Ileum_Control	0.006803190883502303
-Deinococcus-Thermus	Ileum_UC	0.014146312598145416
-Deinococcus-Thermus	Stools_CD	0.06833897122675878
-Deinococcus-Thermus	Stools_Control	0.05278568753055361
-Deinococcus-Thermus	Stools_UC	0.02389131714843565
-Dictyoglomi	Colon_CD	6.613545392920929e-5
-Dictyoglomi	Colon_Control	1.2941199519148617e-4
-Dictyoglomi	Colon_UC	8.824639987426897e-5
-Dictyoglomi	Ileum_CD	0.0031203820965201683
-Dictyoglomi	Ileum_Control	2.519829513731874e-4
-Dictyoglomi	Ileum_UC	5.448968920568504e-4
-Dictyoglomi	Stools_CD	4.298176613645905e-5
-Dictyoglomi	Stools_Control	2.089754549559176e-5
-Dictyoglomi	Stools_UC	6.552983223346255e-5
-Elusimicrobia	Colon_CD	6.950028190112235e-5
-Elusimicrobia	Colon_Control	1.4000629120149635e-4
-Elusimicrobia	Colon_UC	1.0117689864919237e-4
-Elusimicrobia	Ileum_CD	0.0031256061975678527
-Elusimicrobia	Ileum_Control	2.5803772773356294e-4
-Elusimicrobia	Ileum_UC	6.407222402107312e-4
-Elusimicrobia	Stools_CD	7.011592017786761e-5
-Elusimicrobia	Stools_Control	4.67094228656347e-5
-Elusimicrobia	Stools_UC	8.694439244173399e-5
-Euryarchaeota	Colon_CD	0
-Euryarchaeota	Colon_Control	0
-Euryarchaeota	Colon_UC	0
-Euryarchaeota	Ileum_CD	0
-Euryarchaeota	Ileum_Control	0
-Euryarchaeota	Ileum_UC	0
-Euryarchaeota	Stools_CD	0
-Euryarchaeota	Stools_Control	0
-Euryarchaeota	Stools_UC	0
-Fibrobacteres	Colon_CD	3.299230071153573e-5
-Fibrobacteres	Colon_Control	8.851971832337959e-5
-Fibrobacteres	Colon_UC	6.6878560877784e-5
-Fibrobacteres	Ileum_CD	0.0015602295151897186
-Fibrobacteres	Ileum_Control	1.2698526822547843e-4
-Fibrobacteres	Ileum_UC	2.788071547788917e-4
-Fibrobacteres	Stools_CD	8.369381138048363e-5
-Fibrobacteres	Stools_Control	1.8844188790583428e-5
-Fibrobacteres	Stools_UC	5.820137421186568e-5
-Firmicutes	Colon_CD	10.195074729711948
-Firmicutes	Colon_Control	14.039465000907482
-Firmicutes	Colon_UC	10.281859651461088
-Firmicutes	Ileum_CD	218.93613463602912
-Firmicutes	Ileum_Control	43.63848471912211
-Firmicutes	Ileum_UC	36.3714729191832
-Firmicutes	Stools_CD	8.996713263481405
-Firmicutes	Stools_Control	5.108782522819931
-Firmicutes	Stools_UC	3.9506800555187147
-Fusobacteria	Colon_CD	0.0015438424518409196
-Fusobacteria	Colon_Control	0.005043583824596257
-Fusobacteria	Colon_UC	0.002769733962771723
-Fusobacteria	Ileum_CD	0.11478223631460621
-Fusobacteria	Ileum_Control	0.023415345348897568
-Fusobacteria	Ileum_UC	0.19500413082253829
-Fusobacteria	Stools_CD	0.43127359554121536
-Fusobacteria	Stools_Control	0.021083612076429593
-Fusobacteria	Stools_UC	0.08310279254069221
-Gemmatimonadetes	Colon_CD	1.9298627993509764e-4
-Gemmatimonadetes	Colon_Control	3.226641499073892e-4
-Gemmatimonadetes	Colon_UC	4.468743649847487e-4
-Gemmatimonadetes	Ileum_CD	0.006359981447417874
-Gemmatimonadetes	Ileum_Control	0.001018951754927011
-Gemmatimonadetes	Ileum_UC	0.0011360164042083475
-Gemmatimonadetes	Stools_CD	1.9848011696108333e-4
-Gemmatimonadetes	Stools_Control	1.1933904968366329e-4
-Gemmatimonadetes	Stools_UC	1.8411647140398105e-4
-Hofneiviricota	Colon_CD	0
-Hofneiviricota	Colon_Control	0
-Hofneiviricota	Colon_UC	0
-Hofneiviricota	Ileum_CD	0
-Hofneiviricota	Ileum_Control	0
-Hofneiviricota	Ileum_UC	0
-Hofneiviricota	Stools_CD	0
-Hofneiviricota	Stools_Control	0
-Hofneiviricota	Stools_UC	0
-Ignavibacteriae	Colon_CD	8.61632218787012e-5
-Ignavibacteriae	Colon_Control	1.9127592799852796e-4
-Ignavibacteriae	Colon_UC	1.3154138999909207e-4
-Ignavibacteriae	Ileum_CD	0.00316167444985741
-Ignavibacteriae	Ileum_Control	2.5775559911328695e-4
-Ignavibacteriae	Ileum_UC	5.895469993848349e-4
-Ignavibacteriae	Stools_CD	2.4484259464017976e-4
-Ignavibacteriae	Stools_Control	3.644189169592025e-4
-Ignavibacteriae	Stools_UC	1.4797461357120463e-4
-Kiritimatiellaeota	Colon_CD	2.980069796254947e-5
-Kiritimatiellaeota	Colon_Control	6.104352898704859e-5
-Kiritimatiellaeota	Colon_UC	4.115275816330848e-5
-Kiritimatiellaeota	Ileum_CD	0.001547446786234209
-Kiritimatiellaeota	Ileum_Control	1.2529015326570123e-4
-Kiritimatiellaeota	Ileum_UC	2.6470822414816157e-4
-Kiritimatiellaeota	Stools_CD	2.7553311049370053e-5
-Kiritimatiellaeota	Stools_Control	1.543598432881339e-5
-Kiritimatiellaeota	Stools_UC	3.140220531894589e-5
-Kitrinoviricota	Colon_CD	0
-Kitrinoviricota	Colon_Control	0
-Kitrinoviricota	Colon_UC	0
-Kitrinoviricota	Ileum_CD	0
-Kitrinoviricota	Ileum_Control	0
-Kitrinoviricota	Ileum_UC	0
-Kitrinoviricota	Stools_CD	0
-Kitrinoviricota	Stools_Control	0
-Kitrinoviricota	Stools_UC	0
-Negarnaviricota	Colon_CD	0
-Negarnaviricota	Colon_Control	0
-Negarnaviricota	Colon_UC	0
-Negarnaviricota	Ileum_CD	0
-Negarnaviricota	Ileum_Control	0
-Negarnaviricota	Ileum_UC	0
-Negarnaviricota	Stools_CD	0
-Negarnaviricota	Stools_Control	0
-Negarnaviricota	Stools_UC	0
-Nitrospirae	Colon_CD	2.630063123396485e-4
-Nitrospirae	Colon_Control	5.165965910794176e-4
-Nitrospirae	Colon_UC	3.898597617018033e-4
-Nitrospirae	Ileum_CD	0.00806423794384037
-Nitrospirae	Ileum_Control	6.896876240692163e-4
-Nitrospirae	Ileum_UC	0.002081690538717102
-Nitrospirae	Stools_CD	7.68318029825898e-4
-Nitrospirae	Stools_Control	3.657759967511576e-4
-Nitrospirae	Stools_UC	4.742552365785237e-4
-Nucleocytoviricota	Colon_CD	0
-Nucleocytoviricota	Colon_Control	0
-Nucleocytoviricota	Colon_UC	0
-Nucleocytoviricota	Ileum_CD	0
-Nucleocytoviricota	Ileum_Control	0
-Nucleocytoviricota	Ileum_UC	0
-Nucleocytoviricota	Stools_CD	0
-Nucleocytoviricota	Stools_Control	0
-Nucleocytoviricota	Stools_UC	0
-Peploviricota	Colon_CD	0
-Peploviricota	Colon_Control	0
-Peploviricota	Colon_UC	0
-Peploviricota	Ileum_CD	0
-Peploviricota	Ileum_Control	0
-Peploviricota	Ileum_UC	0
-Peploviricota	Stools_CD	0
-Peploviricota	Stools_Control	0
-Peploviricota	Stools_UC	0
-Phixviricota	Colon_CD	0
-Phixviricota	Colon_Control	0
-Phixviricota	Colon_UC	0
-Phixviricota	Ileum_CD	0
-Phixviricota	Ileum_Control	0
-Phixviricota	Ileum_UC	0
-Phixviricota	Stools_CD	0
-Phixviricota	Stools_Control	0
-Phixviricota	Stools_UC	0
-Pisuviricota	Colon_CD	0
-Pisuviricota	Colon_Control	0
-Pisuviricota	Colon_UC	0
-Pisuviricota	Ileum_CD	0
-Pisuviricota	Ileum_Control	0
-Pisuviricota	Ileum_UC	0
-Pisuviricota	Stools_CD	0
-Pisuviricota	Stools_Control	0
-Pisuviricota	Stools_UC	0
-Planctomycetes	Colon_CD	0.002027198842054666
-Planctomycetes	Colon_Control	0.005227943785791974
-Planctomycetes	Colon_UC	0.00298243211587252
-Planctomycetes	Ileum_CD	0.05088734945591946
-Planctomycetes	Ileum_Control	0.004212712891324465
-Planctomycetes	Ileum_UC	0.010902484142925398
-Planctomycetes	Stools_CD	0.005299705716723568
-Planctomycetes	Stools_Control	0.003667591951122287
-Planctomycetes	Stools_UC	0.006158628437279081
-Preplasmiviricota	Colon_CD	0
-Preplasmiviricota	Colon_Control	0
-Preplasmiviricota	Colon_UC	0
-Preplasmiviricota	Ileum_CD	0
-Preplasmiviricota	Ileum_Control	0
-Preplasmiviricota	Ileum_UC	0
-Preplasmiviricota	Stools_CD	0
-Preplasmiviricota	Stools_Control	0
-Preplasmiviricota	Stools_UC	0
-Proteobacteria	Colon_CD	50.73039998463262
-Proteobacteria	Colon_Control	70.03468716853253
-Proteobacteria	Colon_UC	56.603847245131675
-Proteobacteria	Ileum_CD	499.7103215920635
-Proteobacteria	Ileum_Control	94.3625028928897
-Proteobacteria	Ileum_UC	71.84850618843618
-Proteobacteria	Stools_CD	51.24998714528191
-Proteobacteria	Stools_Control	18.913315694654024
-Proteobacteria	Stools_UC	20.500360485908278
-Spirochaetes	Colon_CD	0.0022129173725515187
-Spirochaetes	Colon_Control	0.004322288249243041
-Spirochaetes	Colon_UC	0.0031044654737301426
-Spirochaetes	Ileum_CD	0.055770073046947796
-Spirochaetes	Ileum_Control	0.005316609553854266
-Spirochaetes	Ileum_UC	0.018347940051288914
-Spirochaetes	Stools_CD	0.02171008866304004
-Spirochaetes	Stools_Control	0.02164104013615102
-Spirochaetes	Stools_UC	0.059322632363836364
-Synergistetes	Colon_CD	2.712954491564471e-4
-Synergistetes	Colon_Control	5.426137645907407e-4
-Synergistetes	Colon_UC	3.7927333893792917e-4
-Synergistetes	Ileum_CD	0.012838166503051505
-Synergistetes	Ileum_Control	0.0010502373553277478
-Synergistetes	Ileum_UC	0.0028520601707926626
-Synergistetes	Stools_CD	0.009030976425699179
-Synergistetes	Stools_Control	0.0012011223158931406
-Synergistetes	Stools_UC	0.011020946200818806
-Tenericutes	Colon_CD	0.005940246234217203
-Tenericutes	Colon_Control	0.011966558377525709
-Tenericutes	Colon_UC	0.008866894219819642
-Tenericutes	Ileum_CD	0.5183441997514856
-Tenericutes	Ileum_Control	0.018606280889977875
-Tenericutes	Ileum_UC	0.09545315439272331
-Tenericutes	Stools_CD	0.6247957146281169
-Tenericutes	Stools_Control	0.22174093719381224
-Tenericutes	Stools_UC	0.4340164539201779
-Thaumarchaeota	Colon_CD	0
-Thaumarchaeota	Colon_Control	0
-Thaumarchaeota	Colon_UC	0
-Thaumarchaeota	Ileum_CD	0
-Thaumarchaeota	Ileum_Control	0
-Thaumarchaeota	Ileum_UC	0
-Thaumarchaeota	Stools_CD	0
-Thaumarchaeota	Stools_Control	0
-Thaumarchaeota	Stools_UC	0
-Thermodesulfobacteria	Colon_CD	1.9645763953255092e-4
-Thermodesulfobacteria	Colon_Control	3.9530720025660754e-4
-Thermodesulfobacteria	Colon_UC	2.75666372208616e-4
-Thermodesulfobacteria	Ileum_CD	0.009440322053566244
-Thermodesulfobacteria	Ileum_Control	7.940996102678055e-4
-Thermodesulfobacteria	Ileum_UC	0.0016581501716444898
-Thermodesulfobacteria	Stools_CD	2.1150709652739005e-4
-Thermodesulfobacteria	Stools_Control	1.7473231901829809e-4
-Thermodesulfobacteria	Stools_UC	2.899489587843515e-4
-Thermotogae	Colon_CD	5.299189768845437e-4
-Thermotogae	Colon_Control	0.0011535702901449149
-Thermotogae	Colon_UC	8.082709521204972e-4
-Thermotogae	Ileum_CD	0.02860613672812848
-Thermotogae	Ileum_Control	0.002301906025330735
-Thermotogae	Ileum_UC	0.005275468942626814
-Thermotogae	Stools_CD	0.0012075509633635926
-Thermotogae	Stools_Control	8.104534938933992e-4
-Thermotogae	Stools_UC	0.0014047048313351536
-Uroviricota	Colon_CD	0
-Uroviricota	Colon_Control	0
-Uroviricota	Colon_UC	0
-Uroviricota	Ileum_CD	0
-Uroviricota	Ileum_Control	0
-Uroviricota	Ileum_UC	0
-Uroviricota	Stools_CD	0
-Uroviricota	Stools_Control	0
-Uroviricota	Stools_UC	0
-Verrucomicrobia	Colon_CD	4.8761896238227293e-4
-Verrucomicrobia	Colon_Control	0.001250432683727373
-Verrucomicrobia	Colon_UC	0.002067381120377341
-Verrucomicrobia	Ileum_CD	0.021349411565482368
-Verrucomicrobia	Ileum_Control	0.0021475570154224095
-Verrucomicrobia	Ileum_UC	0.008504370520834489
-Verrucomicrobia	Stools_CD	0.7447417872152206
-Verrucomicrobia	Stools_Control	0.20936524681096838
-Verrucomicrobia	Stools_UC	0.08102165596122736
+Acidobacteria	Colon CD	0.05014547435621486
+Acidobacteria	Colon Control	0.12971993710235744
+Acidobacteria	Colon UC	0.061752051415896424
+Acidobacteria	Ileum CD	1.0497281659804942
+Acidobacteria	Ileum Control	0.49850456134718313
+Acidobacteria	Ileum UC	0.06871351951534384
+Acidobacteria	Stools CD	0.005115126660882126
+Acidobacteria	Stools Control	0.002240840529476874
+Acidobacteria	Stools UC	0.004831674364677451
+Actinobacteria	Colon CD	2.3772676388374125
+Actinobacteria	Colon Control	7.6514550246088024
+Actinobacteria	Colon UC	2.8800914384424345
+Actinobacteria	Ileum CD	37.39089562805914
+Actinobacteria	Ileum Control	5.297968257260053
+Actinobacteria	Ileum UC	5.591745660454452
+Actinobacteria	Stools CD	8.655644002513792
+Actinobacteria	Stools Control	5.271422919590373
+Actinobacteria	Stools UC	5.178544427717172
+Aquificae	Colon CD	0.013226601313349068
+Aquificae	Colon Control	0.021914981796792275
+Aquificae	Colon UC	0.015368250617858641
+Aquificae	Ileum CD	0.42987318863316976
+Aquificae	Ileum Control	0.04769009571882303
+Aquificae	Ileum UC	0.05817968099272398
+Aquificae	Stools CD	0.009268632178861227
+Aquificae	Stools Control	0.006721181616369211
+Aquificae	Stools UC	0.011685447923897009
+Armatimonadetes	Colon CD	0.01065100165378682
+Armatimonadetes	Colon Control	0.021870800699663403
+Armatimonadetes	Colon UC	0.016596544744185503
+Armatimonadetes	Ileum CD	0.4348633453143171
+Armatimonadetes	Ileum Control	0.04511971320086684
+Armatimonadetes	Ileum UC	0.059386347014819714
+Armatimonadetes	Stools CD	0.0067068260258045615
+Armatimonadetes	Stools Control	0.00347381754824112
+Armatimonadetes	Stools UC	0.005028221334045334
+Artverviricota	Colon CD	0
+Artverviricota	Colon Control	0
+Artverviricota	Colon UC	0
+Artverviricota	Ileum CD	0
+Artverviricota	Ileum Control	0
+Artverviricota	Ileum UC	0
+Artverviricota	Stools CD	0
+Artverviricota	Stools Control	0
+Artverviricota	Stools UC	0
+Ascomycota	Colon CD	0
+Ascomycota	Colon Control	0
+Ascomycota	Colon UC	0
+Ascomycota	Ileum CD	0
+Ascomycota	Ileum Control	0
+Ascomycota	Ileum UC	0
+Ascomycota	Stools CD	0
+Ascomycota	Stools Control	0
+Ascomycota	Stools UC	0
+Bacteroidetes	Colon CD	0.6280892913450519
+Bacteroidetes	Colon Control	3.808515284958971
+Bacteroidetes	Colon UC	1.4209914489450657
+Bacteroidetes	Ileum CD	10.9622304342619
+Bacteroidetes	Ileum Control	2.908458613192638
+Bacteroidetes	Ileum UC	15.256224898499381
+Bacteroidetes	Stools CD	222.29148347888733
+Bacteroidetes	Stools Control	123.35302338898681
+Bacteroidetes	Stools UC	138.81702123297913
+Basidiomycota	Colon CD	0
+Basidiomycota	Colon Control	0
+Basidiomycota	Colon UC	0
+Basidiomycota	Ileum CD	0
+Basidiomycota	Ileum Control	0
+Basidiomycota	Ileum UC	0
+Basidiomycota	Stools CD	0
+Basidiomycota	Stools Control	0
+Basidiomycota	Stools UC	0
+Caldiserica	Colon CD	0.0051312981034231046
+Caldiserica	Colon Control	0.009811697963994996
+Caldiserica	Colon UC	0.006399865887797158
+Caldiserica	Ileum CD	0.21036555146672542
+Caldiserica	Ileum Control	0.022535847028147548
+Caldiserica	Ileum UC	0.027875273331130684
+Caldiserica	Stools CD	0.0013552884468070832
+Caldiserica	Stools Control	1.942302977374026e-4
+Caldiserica	Stools UC	0.0014261209100348746
+Calditrichaeota	Colon CD	0.0051637380455894985
+Calditrichaeota	Colon Control	0.010171466730449705
+Calditrichaeota	Colon UC	0.006908810082821076
+Calditrichaeota	Ileum CD	0.21062996443328424
+Calditrichaeota	Ileum Control	0.022754540824891985
+Calditrichaeota	Ileum UC	0.0279391779554134
+Calditrichaeota	Stools CD	0.0029127139706129463
+Calditrichaeota	Stools Control	0.0014247461291135867
+Calditrichaeota	Stools UC	0.002118029269408679
+Candidatus Thermoplasmatota	Colon CD	0
+Candidatus Thermoplasmatota	Colon Control	0
+Candidatus Thermoplasmatota	Colon UC	0
+Candidatus Thermoplasmatota	Ileum CD	0
+Candidatus Thermoplasmatota	Ileum Control	0
+Candidatus Thermoplasmatota	Ileum UC	0
+Candidatus Thermoplasmatota	Stools CD	0
+Candidatus Thermoplasmatota	Stools Control	0
+Candidatus Thermoplasmatota	Stools UC	0
+Chlamydiae	Colon CD	0.017086879865063367
+Chlamydiae	Colon Control	0.0414163960866748
+Chlamydiae	Colon UC	0.022258222982907354
+Chlamydiae	Ileum CD	0.4312162658818275
+Chlamydiae	Ileum Control	0.049820461590531245
+Chlamydiae	Ileum UC	0.06205570365289337
+Chlamydiae	Stools CD	0.0061608575484852395
+Chlamydiae	Stools Control	0.009445760829997868
+Chlamydiae	Stools UC	0.005604748159930989
+Chlorobi	Colon CD	0.007042499395990129
+Chlorobi	Colon Control	0.014926985475276435
+Chlorobi	Colon UC	0.014256195701320383
+Chlorobi	Ileum CD	0.22003627396292832
+Chlorobi	Ileum Control	0.023860745080007743
+Chlorobi	Ileum UC	0.031002226322289727
+Chlorobi	Stools CD	0.008259297936228824
+Chlorobi	Stools Control	0.00513010206391074
+Chlorobi	Stools UC	0.005677986649389908
+Chloroflexi	Colon CD	0.050345948774161084
+Chloroflexi	Colon Control	0.09575236667617
+Chloroflexi	Colon UC	0.07680005235357926
+Chloroflexi	Ileum CD	1.9434289695680482
+Chloroflexi	Ileum Control	0.20573887464454976
+Chloroflexi	Ileum UC	0.28264257252895214
+Chloroflexi	Stools CD	0.02050621313128679
+Chloroflexi	Stools Control	0.012217338592410292
+Chloroflexi	Stools UC	0.019078359756580968
+Chrysiogenetes	Colon CD	0.005220066016318596
+Chrysiogenetes	Colon Control	0.010361226818217453
+Chrysiogenetes	Colon UC	0.007271902808696948
+Chrysiogenetes	Ileum CD	0.211566956190873
+Chrysiogenetes	Ileum Control	0.023235454906708627
+Chrysiogenetes	Ileum UC	0.028160574587383008
+Chrysiogenetes	Stools CD	0.001983991515028237
+Chrysiogenetes	Stools Control	7.319294606504891e-4
+Chrysiogenetes	Stools UC	0.002152691274075412
+Coprothermobacterota	Colon CD	0.005398298824356824
+Coprothermobacterota	Colon Control	0.010240056436725216
+Coprothermobacterota	Colon UC	0.006401995278224131
+Coprothermobacterota	Ileum CD	0.21088770612993338
+Coprothermobacterota	Ileum Control	0.023445026630681914
+Coprothermobacterota	Ileum UC	0.028329693874285376
+Coprothermobacterota	Stools CD	0.0017666807907323321
+Coprothermobacterota	Stools Control	4.2552110837991967e-4
+Coprothermobacterota	Stools UC	0.0015932118813055231
+Cossaviricota	Colon CD	0
+Cossaviricota	Colon Control	0
+Cossaviricota	Colon UC	0
+Cossaviricota	Ileum CD	0
+Cossaviricota	Ileum Control	0
+Cossaviricota	Ileum UC	0
+Cossaviricota	Stools CD	0
+Cossaviricota	Stools Control	0
+Cossaviricota	Stools UC	0
+Crenarchaeota	Colon CD	0
+Crenarchaeota	Colon Control	0
+Crenarchaeota	Colon UC	0
+Crenarchaeota	Ileum CD	0
+Crenarchaeota	Ileum Control	0
+Crenarchaeota	Ileum UC	0
+Crenarchaeota	Stools CD	0
+Crenarchaeota	Stools Control	0
+Crenarchaeota	Stools UC	0
+Cyanobacteria	Colon CD	0.11143417722516065
+Cyanobacteria	Colon Control	0.2203126382995067
+Cyanobacteria	Colon UC	0.3183937050390364
+Cyanobacteria	Ileum CD	1.8525645760221225
+Cyanobacteria	Ileum Control	0.20237479900014538
+Cyanobacteria	Ileum UC	0.4833963649395192
+Cyanobacteria	Stools CD	0.06263416651666552
+Cyanobacteria	Stools Control	0.03734328257181771
+Cyanobacteria	Stools UC	0.05519461664205448
+Deferribacteres	Colon CD	0.005332587868556621
+Deferribacteres	Colon Control	0.01056964824354679
+Deferribacteres	Colon UC	0.010262140891501244
+Deferribacteres	Ileum CD	0.22162700518509199
+Deferribacteres	Ileum Control	0.023269272420339736
+Deferribacteres	Ileum UC	0.033179383444564316
+Deferribacteres	Stools CD	0.008398015138928705
+Deferribacteres	Stools Control	0.014906769781722104
+Deferribacteres	Stools UC	0.005278940315473232
+Deinococcus-Thermus	Colon CD	0.053858011522925894
+Deinococcus-Thermus	Colon Control	0.10627179090124562
+Deinococcus-Thermus	Colon UC	0.07786018878013948
+Deinococcus-Thermus	Ileum CD	0.6648615031852203
+Deinococcus-Thermus	Ileum Control	0.08631283455661008
+Deinococcus-Thermus	Ileum UC	0.0838753297540425
+Deinococcus-Thermus	Stools CD	0.15826896100400697
+Deinococcus-Thermus	Stools Control	0.10843718251368518
+Deinococcus-Thermus	Stools UC	0.05021522267785291
+Dictyoglomi	Colon CD	0.0060980880290213675
+Dictyoglomi	Colon Control	0.01099848583828289
+Dictyoglomi	Colon UC	0.007265292798678465
+Dictyoglomi	Ileum CD	0.21241628771262233
+Dictyoglomi	Ileum Control	0.022689829342689236
+Dictyoglomi	Ileum UC	0.02844965231844052
+Dictyoglomi	Stools CD	0.0013631438036912275
+Dictyoglomi	Stools Control	3.95503942352851e-4
+Dictyoglomi	Stools UC	0.0014907183528863833
+Duplornaviricota	Colon CD	0
+Duplornaviricota	Colon Control	0
+Duplornaviricota	Colon UC	0
+Duplornaviricota	Ileum CD	0
+Duplornaviricota	Ileum Control	0
+Duplornaviricota	Ileum UC	0
+Duplornaviricota	Stools CD	0
+Duplornaviricota	Stools Control	0
+Duplornaviricota	Stools UC	0
+Elusimicrobia	Colon CD	0.012433566864179266
+Elusimicrobia	Colon Control	0.023991788173123047
+Elusimicrobia	Colon UC	0.01604368477222601
+Elusimicrobia	Ileum CD	0.4251913634728272
+Elusimicrobia	Ileum Control	0.046095046504853604
+Elusimicrobia	Ileum UC	0.05868210368012087
+Elusimicrobia	Stools CD	0.0037965227804698733
+Elusimicrobia	Stools Control	0.0016494544126250848
+Elusimicrobia	Stools UC	0.0038937420196307874
+Euryarchaeota	Colon CD	0
+Euryarchaeota	Colon Control	0
+Euryarchaeota	Colon UC	0
+Euryarchaeota	Ileum CD	0
+Euryarchaeota	Ileum Control	0
+Euryarchaeota	Ileum UC	0
+Euryarchaeota	Stools CD	0
+Euryarchaeota	Stools Control	0
+Euryarchaeota	Stools UC	0
+Fibrobacteres	Colon CD	0.00608005866197632
+Fibrobacteres	Colon Control	0.014444220277832093
+Fibrobacteres	Colon UC	0.010445471657313717
+Fibrobacteres	Ileum CD	0.21247520985891866
+Fibrobacteres	Ileum Control	0.02281468132801189
+Fibrobacteres	Ileum UC	0.028908043413529684
+Fibrobacteres	Stools CD	0.004215791662885011
+Fibrobacteres	Stools Control	6.581575477806396e-4
+Fibrobacteres	Stools UC	0.0023637963879163857
+Firmicutes	Colon CD	8.355028117861394
+Firmicutes	Colon Control	10.344166567217487
+Firmicutes	Colon UC	7.870831952407899
+Firmicutes	Ileum CD	158.79410920783707
+Firmicutes	Ileum Control	31.353182958815385
+Firmicutes	Ileum UC	22.03252663938109
+Firmicutes	Stools CD	6.942714880249138
+Firmicutes	Stools Control	2.077012718470664
+Firmicutes	Stools UC	2.1599138638197233
+Fusobacteria	Colon CD	0.012842041882845028
+Fusobacteria	Colon Control	0.03794445529528144
+Fusobacteria	Colon UC	0.021472698687941414
+Fusobacteria	Ileum CD	0.8423092191705516
+Fusobacteria	Ileum Control	0.14872173523599563
+Fusobacteria	Ileum UC	0.7166428452831523
+Fusobacteria	Stools CD	0.7770168967743442
+Fusobacteria	Stools Control	0.039251715321905696
+Fusobacteria	Stools UC	0.12138086167952528
+Gemmatimonadetes	Colon CD	0.009437406670073551
+Gemmatimonadetes	Colon Control	0.013766686816531204
+Gemmatimonadetes	Colon UC	0.017330242019898738
+Gemmatimonadetes	Ileum CD	0.21822273939540296
+Gemmatimonadetes	Ileum Control	0.04503935332432199
+Gemmatimonadetes	Ileum UC	0.029248761964057218
+Gemmatimonadetes	Stools CD	0.002422840070848841
+Gemmatimonadetes	Stools Control	0.00113552166397529
+Gemmatimonadetes	Stools UC	0.00193850108127691
+Hofneiviricota	Colon CD	0
+Hofneiviricota	Colon Control	0
+Hofneiviricota	Colon UC	0
+Hofneiviricota	Ileum CD	0
+Hofneiviricota	Ileum Control	0
+Hofneiviricota	Ileum UC	0
+Hofneiviricota	Stools CD	0
+Hofneiviricota	Stools Control	0
+Hofneiviricota	Stools UC	0
+Ignavibacteriae	Colon CD	0.007707998920307357
+Ignavibacteriae	Colon Control	0.015929127838549995
+Ignavibacteriae	Colon UC	0.010178792388924931
+Ignavibacteriae	Ileum CD	0.21598712001817927
+Ignavibacteriae	Ileum Control	0.023063653241727534
+Ignavibacteriae	Ileum UC	0.02915661624835463
+Ignavibacteriae	Stools CD	0.005469481714175998
+Ignavibacteriae	Stools Control	0.006520194700151777
+Ignavibacteriae	Stools UC	0.0030529817798061348
+Kiritimatiellaeota	Colon CD	0.005310821950474074
+Kiritimatiellaeota	Colon Control	0.010501347434140457
+Kiritimatiellaeota	Colon UC	0.006743308639444485
+Kiritimatiellaeota	Ileum CD	0.21033025824854054
+Kiritimatiellaeota	Ileum Control	0.022522413334321617
+Kiritimatiellaeota	Ileum UC	0.02795408848623651
+Kiritimatiellaeota	Stools CD	0.0016459648050870198
+Kiritimatiellaeota	Stools Control	6.043482569656713e-4
+Kiritimatiellaeota	Stools UC	0.0015067155517367139
+Kitrinoviricota	Colon CD	0
+Kitrinoviricota	Colon Control	0
+Kitrinoviricota	Colon UC	0
+Kitrinoviricota	Ileum CD	0
+Kitrinoviricota	Ileum Control	0
+Kitrinoviricota	Ileum UC	0
+Kitrinoviricota	Stools CD	0
+Kitrinoviricota	Stools Control	0
+Kitrinoviricota	Stools UC	0
+Lentisphaerae	Colon CD	0.0051711141955937965
+Lentisphaerae	Colon Control	0.010402104793605775
+Lentisphaerae	Colon UC	0.00694628310838823
+Lentisphaerae	Ileum CD	0.21548905854293748
+Lentisphaerae	Ileum Control	0.02364516445224093
+Lentisphaerae	Ileum UC	0.028526302002453176
+Lentisphaerae	Stools CD	0.05380772437006643
+Lentisphaerae	Stools Control	0.12160289482914224
+Lentisphaerae	Stools UC	0.017152828293068335
+Negarnaviricota	Colon CD	0
+Negarnaviricota	Colon Control	0
+Negarnaviricota	Colon UC	0
+Negarnaviricota	Ileum CD	0
+Negarnaviricota	Ileum Control	0
+Negarnaviricota	Ileum UC	0
+Negarnaviricota	Stools CD	0
+Negarnaviricota	Stools Control	0
+Negarnaviricota	Stools UC	0
+Nitrospirae	Colon CD	0.009608551507629558
+Nitrospirae	Colon Control	0.017715099732070798
+Nitrospirae	Colon UC	0.012314152236830614
+Nitrospirae	Ileum CD	0.22112467741103478
+Nitrospirae	Ileum Control	0.024403266699057544
+Nitrospirae	Ileum UC	0.03405587157926286
+Nitrospirae	Stools CD	0.00476644906097394
+Nitrospirae	Stools Control	0.002489660605498443
+Nitrospirae	Stools UC	0.0033187288339529197
+Nucleocytoviricota	Colon CD	0
+Nucleocytoviricota	Colon Control	0
+Nucleocytoviricota	Colon UC	0
+Nucleocytoviricota	Ileum CD	0
+Nucleocytoviricota	Ileum Control	0
+Nucleocytoviricota	Ileum UC	0
+Nucleocytoviricota	Stools CD	0
+Nucleocytoviricota	Stools Control	0
+Nucleocytoviricota	Stools UC	0
+Peploviricota	Colon CD	0
+Peploviricota	Colon Control	0
+Peploviricota	Colon UC	0
+Peploviricota	Ileum CD	0
+Peploviricota	Ileum Control	0
+Peploviricota	Ileum UC	0
+Peploviricota	Stools CD	0
+Peploviricota	Stools Control	0
+Peploviricota	Stools UC	0
+Phixviricota	Colon CD	0
+Phixviricota	Colon Control	0
+Phixviricota	Colon UC	0
+Phixviricota	Ileum CD	0
+Phixviricota	Ileum Control	0
+Phixviricota	Ileum UC	0
+Phixviricota	Stools CD	0
+Phixviricota	Stools Control	0
+Phixviricota	Stools UC	0
+Pisuviricota	Colon CD	0
+Pisuviricota	Colon Control	0
+Pisuviricota	Colon UC	0
+Pisuviricota	Ileum CD	0
+Pisuviricota	Ileum Control	0
+Pisuviricota	Ileum UC	0
+Pisuviricota	Stools CD	0
+Pisuviricota	Stools Control	0
+Pisuviricota	Stools UC	0
+Planctomycetes	Colon CD	0.06473178097923434
+Planctomycetes	Colon Control	0.15495130697225723
+Planctomycetes	Colon UC	0.08729302300947545
+Planctomycetes	Ileum CD	1.5568151547983484
+Planctomycetes	Ileum Control	0.16641693153295917
+Planctomycetes	Ileum UC	0.22002340722398672
+Planctomycetes	Stools CD	0.030798859652210048
+Planctomycetes	Stools Control	0.01885938981389602
+Planctomycetes	Stools UC	0.023461518256159688
+Preplasmiviricota	Colon CD	0
+Preplasmiviricota	Colon Control	0
+Preplasmiviricota	Colon UC	0
+Preplasmiviricota	Ileum CD	0
+Preplasmiviricota	Ileum Control	0
+Preplasmiviricota	Ileum UC	0
+Preplasmiviricota	Stools CD	0
+Preplasmiviricota	Stools Control	0
+Preplasmiviricota	Stools UC	0
+Proteobacteria	Colon CD	49.7418357133954
+Proteobacteria	Colon Control	68.44870397046408
+Proteobacteria	Colon UC	54.931805068310325
+Proteobacteria	Ileum CD	513.7293685729703
+Proteobacteria	Ileum Control	95.08235341302823
+Proteobacteria	Ileum UC	49.67066168885553
+Proteobacteria	Stools CD	13.65354868646631
+Proteobacteria	Stools Control	3.1884529204340635
+Proteobacteria	Stools UC	3.9359483962166477
+Spirochaetes	Colon CD	0.025488133928785333
+Spirochaetes	Colon Control	0.04726660418526806
+Spirochaetes	Colon UC	0.03129495385252603
+Spirochaetes	Ileum CD	0.6598201865598132
+Spirochaetes	Ileum Control	0.0740079221566016
+Spirochaetes	Ileum UC	0.11055985256185405
+Spirochaetes	Stools CD	0.04154088671054775
+Spirochaetes	Stools Control	0.021280555041154482
+Spirochaetes	Stools UC	0.07049360615671546
+Synergistetes	Colon CD	0.006060665486533265
+Synergistetes	Colon Control	0.01155915622679528
+Synergistetes	Colon UC	0.007564656441053105
+Synergistetes	Ileum CD	0.21902557744793694
+Synergistetes	Ileum Control	0.02328177845485565
+Synergistetes	Ileum UC	0.03103506536325787
+Synergistetes	Stools CD	0.05357039985916066
+Synergistetes	Stools Control	0.0054231049640389405
+Synergistetes	Stools UC	0.06421395877615431
+Tenericutes	Colon CD	0.02730655696097033
+Tenericutes	Colon Control	0.052441855073220335
+Tenericutes	Colon UC	0.03641677628645043
+Tenericutes	Ileum CD	1.5286349888111066
+Tenericutes	Ileum Control	0.09260157227264183
+Tenericutes	Ileum UC	0.15505748188825905
+Tenericutes	Stools CD	0.412211393811343
+Tenericutes	Stools Control	0.1602483213586231
+Tenericutes	Stools UC	0.20862072633815548
+Thaumarchaeota	Colon CD	0
+Thaumarchaeota	Colon Control	0
+Thaumarchaeota	Colon UC	0
+Thaumarchaeota	Ileum CD	0
+Thaumarchaeota	Ileum Control	0
+Thaumarchaeota	Ileum UC	0
+Thaumarchaeota	Stools CD	0
+Thaumarchaeota	Stools Control	0
+Thaumarchaeota	Stools UC	0
+Thermodesulfobacteria	Colon CD	0.005823931139259497
+Thermodesulfobacteria	Colon Control	0.011337810279122028
+Thermodesulfobacteria	Colon UC	0.00745865495825192
+Thermodesulfobacteria	Ileum CD	0.2143068039905096
+Thermodesulfobacteria	Ileum Control	0.023555037908842485
+Thermodesulfobacteria	Ileum UC	0.028529331726636385
+Thermodesulfobacteria	Stools CD	0.0017565532459940278
+Thermodesulfobacteria	Stools Control	6.793657810547541e-4
+Thermodesulfobacteria	Stools UC	0.0019051144944030745
+Thermotogae	Colon CD	0.021186738674015288
+Thermotogae	Colon Control	0.04238707484298496
+Thermotogae	Colon UC	0.02818030984611853
+Thermotogae	Ileum CD	0.8543671718416412
+Thermotogae	Ileum Control	0.09076970283021252
+Thermotogae	Ileum UC	0.11489917331729665
+Thermotogae	Stools CD	0.009676489403145732
+Thermotogae	Stools Control	0.003740733852856637
+Thermotogae	Stools UC	0.00947010767131823
+Uroviricota	Colon CD	0
+Uroviricota	Colon Control	0
+Uroviricota	Colon UC	0
+Uroviricota	Ileum CD	0
+Uroviricota	Ileum Control	0
+Uroviricota	Ileum UC	0
+Uroviricota	Stools CD	0
+Uroviricota	Stools Control	0
+Uroviricota	Stools UC	0
+Verrucomicrobia	Colon CD	0.025071961283237364
+Verrucomicrobia	Colon Control	0.05675561054427155
+Verrucomicrobia	Colon UC	0.06935545296126794
+Verrucomicrobia	Ileum CD	0.8774736008719745
+Verrucomicrobia	Ileum Control	0.10650499786584454
+Verrucomicrobia	Ileum UC	0.17267925223952396
+Verrucomicrobia	Stools CD	2.0816145570420685
+Verrucomicrobia	Stools Control	1.6301455791143151
+Verrucomicrobia	Stools UC	0.7319705441808185
