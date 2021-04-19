@@ -1,6 +1,11 @@
 Blood_CD-vs-Blood_Control
 Blood_CD-vs-Blood_PIBD
 Blood_CD-vs-Blood_UC
+Blood_macrophages_CD-vs-Blood_macrophages_Control
+Blood_macrophages_CD-vs-Blood_macrophages_UC
+Blood_macrophages_UC-vs-Blood_macrophages_Control
+Blood_monocytes_CD-vs-Blood_monocytes_Control
+Blood_PBMCs_UC-vs-Blood_PBMCs_CD
 Blood_PIBD-vs-Blood_Control
 Blood_UC-vs-Blood_Control
 Blood_UC-vs-Blood_PIBD
