@@ -1,0 +1,13 @@
+comparison	category
+Blood_PIBD-vs-Blood_PBMCs_UC	same_tissue
+Blood_monocytes_CD-vs-Blood_monocytes_Control	same_tissue
+Blood_PBMCs_UC-vs-Blood_PBMCs_CD	same_tissue
+Colonoid_PIBD-vs-Colonoid_Control	same_tissue
+Colon_epithelium_PIBD-vs-Colon_epithelium_Control	same_tissue
+Ileum_UC-vs-Ileum_Control	same_tissue
+Mesenteric_fat_CD-vs-Mesenteric_fat_Control	same_tissue
+Stool_associated_UC-vs-Stool_associated_Control	same_tissue
+Stool_associated_CD-vs-Mesenteric_fat_CD	same_group
+Stool_associated_Control-vs-Mesenteric_fat_Control	same_group
+Stool_associated_UC-vs-Ileum_UC	same_group
+Colonoid_PIBD-vs-Colon_epithelium_PIBD	same_group
